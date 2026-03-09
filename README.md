@@ -310,7 +310,7 @@ MIT License - see LICENSE file for details
 **Amalie Berg**
 - M.S. Economics (Finance), NHH Norwegian School of Economics
 - M.S. Physics (Materials/Energy), University of Oslo
-- M.S. Software Engineering (in progress), BI Norwegian Business School
+- M.S. Software Engineering (in progress), Quantic School of Business and Technology
 
 **Thesis**: *Heston-Nandi GARCH Option Pricing in Energy Markets* (Grade A)
 
